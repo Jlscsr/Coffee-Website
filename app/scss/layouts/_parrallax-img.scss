@@ -1,0 +1,19 @@
+.main {
+  &__parallaximg1 {
+    height: 100vh;
+    background-image: url("../../../assets/images/parallax-img1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  &__parallaximg2 {
+    height: 100vh;
+    background-image: url("../../../assets/images/parallax-img2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+}
