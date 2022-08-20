@@ -5,7 +5,7 @@
   &__landingPage {
     @include displayFlex.flexDiretionColumn;
     height: 100vh;
-    background-image: url("../../../app/images/LandingPage-img.jpg");
+    background-image: url("../../images/LandingPage-img.jpg");
     background-position: 60%;
     background-size: cover;
     background-repeat: no-repeat;
