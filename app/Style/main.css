@@ -171,7 +171,6 @@ ul li {
       -ms-flex-direction: column;
           flex-direction: column;
   height: 100vh;
-  background-image: url("../../../app/images/LandingPage-img.jpg");
   background-position: 60%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -273,7 +272,6 @@ ul li {
 
 .main__parallaximg1 {
   height: 100vh;
-  background-image: url("../../../app/images/parallax-img1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -281,7 +279,6 @@ ul li {
 }
 .main__parallaximg2 {
   height: 100vh;
-  background-image: url("../../../app/images/parallax-img2.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
