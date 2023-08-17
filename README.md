@@ -20,7 +20,7 @@ Through this project, I aim to strengthen my front-end skills while creating an 
 
 ## You Can See the Project Here
 
-You can experience the project by following this link: [Coffee Website Project](https://github.com/Jlscsr/Coffee-Website)
+You can experience the project by following this link: [Coffee Website Project](https://jlscsr.github.io/Coffee-Website/)
 
 ## Contributions
 
