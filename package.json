@@ -1,0 +1,20 @@
+{
+  "name": "coffee-website",
+  "version": "1.0.0",
+  "description": "A practice front-end project showcasing a coffee-themed website with Hero, About, Services, Products, and Contact sections, along with a footer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jlscsr/Coffee-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jlscsr/Coffee-Website/issues"
+  },
+  "homepage": "https://github.com/Jlscsr/Coffee-Website#readme"
+}
