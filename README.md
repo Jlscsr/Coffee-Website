@@ -18,13 +18,14 @@ This project focuses on creating a coffee-themed website to practice and showcas
 
 Through this project, I aim to strengthen my front-end skills while creating an enjoyable and informative experience for visitors. This README aims to provide a clear overview of the project's scope and components.
 
-## You Can See the Project Here
+## Project Evolution
 
-You can experience the project by following this link: [Coffee Website Project](https://jlscsr.github.io/Coffee-Website/)
+In 2022, I started this project as a way to learn web development, resulting in an early version that showcased my initial efforts. Today, in 2023, I'm excited to unveil the progress I've made. The current version reflects my commitment to learning and improvement. I've focused on refining the user interface for a more engaging experience and optimizing performance for smoother interaction.
 
-## Contributions
+I invite you to compare the two versions and witness the strides I've taken in my web development skills:
 
-Contributions are welcome! If you'd like to contribute to the project, feel free to submit pull requests. Please ensure your changes align with the project's goals and maintain a clean coding style.
+- **2022 Version:** [Coffee Website Project - 2022](https://jlscsr.github.io/Coffee-Website/)
+- **2023 Version:** Coffee Website Project - 2023
 
 ## Attributions
 
