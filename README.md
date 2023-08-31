@@ -24,16 +24,8 @@ In 2022, I started this project as a way to learn web development, resulting in 
 
 I invite you to compare the two versions and witness the strides I've taken in my web development skills:
 
-- **2022 Version:** [Coffee Website Project - 2022](https://jlscsr.github.io/Coffee-Website/)
+- **2022 Version:** [Coffee Website Project - 2022](https://jlscsr.github.io/coffee-website-2022/)
 - **2023 Version:** Coffee Website Project - 2023
-
-## Attributions
-
-- Hero section background Image by [Gül Işık](https://www.pexels.com/photo/person-holding-brown-disposable-cup-near-wireless-keyboard-2255349/)
-- About section Image by [Chevanon Photography](https://www.pexels.com/photo/person-performing-coffee-art-302899/)
-- 1st Parralax Image by [Lisa Fotios](https://www.pexels.com/photo/coffee-beans-861090/)
-- 2nd Parralax Image by [Juan Pablo Serrano Arenas](https://www.pexels.com/photo/shallow-focus-photo-of-coffee-beans-894695/)
-- 3rd Parralax Image by [...]()
 
 ## Contact
 
