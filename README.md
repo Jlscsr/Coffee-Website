@@ -25,7 +25,7 @@ In 2022, I started this project as a way to learn web development, resulting in 
 I invite you to compare the two versions and witness the strides I've taken in my web development skills:
 
 - **2022 Version:** [Coffee Website Project - 2022](https://jlscsr.github.io/coffee-website-2022/)
-- **2023 Version:** Coffee Website Project - 2023
+- **2023 Version:** [Coffee Website Project - 2023](https://jlscsr.github.io/coffee-website-2023/)
 
 ## Contact
 
